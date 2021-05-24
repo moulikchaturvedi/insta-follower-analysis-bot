@@ -15,9 +15,9 @@ driver = webdriver.Chrome(file_path)
 
 
 # hard-coded to check for a particular ID
-instagram_url = "http://www.instagram.com/test.test522"
-instagram_username = "test.test522"
-instagram_password = "test12341234"
+instagram_url = "http://www.instagram.com/<username>"
+instagram_username = "<username>"
+instagram_password = "<password>"
 
 driver.get("http://www.instagram.com/")
 
