@@ -15,6 +15,9 @@ instagram_username = "<username>"
 instagram_password = "<password>"
 ```
 
+## Where to look:
+The accounts which don't follow you back will be updated to __*"not_following_back.txt"*__.
+
 ## Reach Me At:
 1. [__*E-Mail*__](mailto:moulik.chaturvedi26@gmail.com)
 2. [__*LinkedIn*__](https://www.linkedin.com/in/moulik-chaturvedi-7b7aab157/)
