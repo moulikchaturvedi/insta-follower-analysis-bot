@@ -1,1 +1,1 @@
-# insta-scraping-bot
+# Instagram Follower Analysis Bot
